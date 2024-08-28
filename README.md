@@ -1,2 +1,4 @@
 # Yogicodes
-This is my first github repository.Author-Yogendra Palhawat
+This is my first github repository.
+<br>
+Author-Yogendra Palhawat
