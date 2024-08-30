@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+select{
+    color:brown;
+}
+caption{
+    color: chartreuse;
+}
+thead{
+    color:cadetblue;
+}
+tbody{
+    color:darkgreen;
+}
+a{
+    text-decoration: none;
+}
+#yogi{
+    height: 50px;
+    color: blueviolet;
+}
+
