@@ -25,6 +25,5 @@ public class Main { public static void main(String[] args) {
     box Box3=new box(1,2,3);
     Box2.volume().area();
 
-
-    }
+    }
 }
